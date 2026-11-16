@@ -98,18 +98,6 @@ Contributed to a website for a youth-led organization focused on education, lead
 
 ---
 
-### 👟 [Apex Kicks](https://apexkicks.netlify.app/)
-**Modern Sneaker Store & E-commerce Experience**
-
-Built a responsive sneaker-store experience with modern product presentation, polished UI, and interactive elements.
-
-**Stack:** React · TypeScript · Tailwind CSS
-
-🔗 [Live Demo](https://apexkicks.netlify.app/)
-
-
----
-
 ## ✍️ Writer & Developer Educator
 
 I write about **software development, AI, developer growth, career lessons, and the things tutorials often don't teach you**.
