@@ -60,7 +60,7 @@ I've also worked with an **international development team on a project for an NV
 
 Outside of client and professional work, I build my own products, contribute to open source, publish technical writing, and experiment with AI-powered developer tools.
 
-**🟢 Open to freelance, contract, and remote full-time opportunities.**
+**🟢 Open to freelance, contract, and remote full-time **
 
 ---
 
