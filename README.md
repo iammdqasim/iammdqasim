@@ -34,7 +34,7 @@
 
 </pre>
 
-# Muhammad Qasim
+# Muhammad 
 
 ## Full Stack Engineer | Frontend Specialist | React & Next.js
 
